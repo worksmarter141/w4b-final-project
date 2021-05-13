@@ -1,3 +1,20 @@
+body {
+    /* background-color: black !important; */
+
+}
 header{
-    background-image: url'img/;
+    /* background-image: url'img/; comment */
+}
+.carousel{
+    width: 640px;
+    height: 360px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    width: 640px;
+    height: 360px;
+}
+.aroundthecarousel{
+    background-color: black;
 }
